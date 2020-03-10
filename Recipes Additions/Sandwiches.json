@@ -1,0 +1,19 @@
+[
+  {
+    "type": "recipe",
+    "result": "sandwich_sauce",
+	"copy-from": "sandwich_sauce",
+	"id_suffix": "sandwich_sauce_bbq",
+	"components": [
+	  [
+		[ "flatbread", 2 ],
+		[ "bread", 2 ],
+		[ "cornbread", 2 ],
+		[ "wastebread", 2 ],
+		[ "sourdough_bread", 2 ],
+		[ "brioche", 2 ]
+	  ],
+	  [ [ "bbq_sauce", 1 ] ]
+	]
+  }
+]

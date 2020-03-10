@@ -1,0 +1,13 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "Xenos_Shopping_List",
+    "name": "Xeno's Shopping List",
+    "authors": [ "xXenocage" ],
+    "maintainers": [ "xXenocage" ],
+    "description": "for those who feel like groceries stores could be a bit more 'full' and feel like having just more food items.",
+    "category": "items",
+    "dependencies": [ "dda" ],
+    "obsolete": false
+  }
+]

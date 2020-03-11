@@ -9,5 +9,16 @@
     "description": "A viscous paste of different ingredients, this particular one is composed of a mixture of tomato paste with liquid smoke, onion powder, mustard, black pepper and sugar.",
     "calories": 29,
     "spoils_in": 650
+  },
+  {
+    "id": "mayochup",
+    "type": "COMESTIBLE",
+    "copy-from": "ketchup",
+    "cooks_like": "ketchup",
+    "color": "pink",
+    "name": "mayochup",
+    "description": "A viscous paste, it consists of a mixture of one part ketchup and two of mayonnaise... \nalso known as ''pink sauce'' or simply ketchup-mayo mix or fry sauce.",
+    "calories": 37,
+    "spoils_in": 590
   }
 ]

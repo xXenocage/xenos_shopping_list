@@ -3,7 +3,7 @@
     "id": "bbq_sauce",
     "type": "COMESTIBLE",
     "copy-from": "ketchup",
-	"cooks_like": "ketchup",
+    "cooks_like": "ketchup",
     "color": "brown",
     "name": "BBQ sauce",
     "description": "A viscous paste of different ingredients, this particular one is composed of a mixture of tomato paste with liquid smoke, onion powder, mustard, black pepper and sugar.",

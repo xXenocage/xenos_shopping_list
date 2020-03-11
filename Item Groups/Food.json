@@ -1,0 +1,28 @@
+[
+  {
+    "type": "item_group",
+    "id": "condiments",
+    "ammo": 75,
+    "magazine": 100,
+    "items":
+    [
+      [ "bbq_sauce", 30 ]
+    ]
+  },
+  {
+    "id": "barbecue",
+    "type": "item_group",
+    "items":
+    [
+      [ "barbecue_sauce", 70 ]
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "fast_food",
+    "items":
+    [
+      [ "barbecue_sauce", 40 ]
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "bar_food",
+    "type": "item_group",
+    "items":
+    [
+      [ "bbq_sauce", 2 ]
+    ]
+  },
+  {
+    "id": "groce_condiment",
+    "type": "item_group",
+    "items":
+    [
+      [ "barbecue_sauce", 60 ]
+    ]
+  }
+]

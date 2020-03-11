@@ -1,6 +1,6 @@
 [
   {
-    "type": "recipe",
+    "type": "recipe", 
     "result": "bbq_sauce",
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_VEGGI",

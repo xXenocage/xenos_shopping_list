@@ -1,28 +1,10 @@
 [
   {
     "type": "item_group",
-    "id": "condiments",
-    "ammo": 75,
-    "magazine": 100,
+    "id": "xenos_sauces",
     "items":
     [
       [ "bbq_sauce", 30 ]
-    ]
-  },
-  {
-    "type": "item_group",
-    "id": "barbecue",
-    "items":
-    [
-      [ "bbq_sauce", 70 ]
-    ]
-  },
-  {
-    "type": "item_group",
-    "id": "fast_food",
-    "items":
-    [
-      [ "bbq_sauce", 40 ]
     ]
   },
   {
@@ -50,6 +32,14 @@
     "items":
     [
       {"item": "green_ice_tea", "prob": 20, "container-group": "ice_tea_containers"}
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "ice_teas_powders",
+    "items":
+    [
+      { "item": "tea_powder_green", "prob": 20, "charges": 10, "container-item": "bag_plastic" },
     ]
   }
 ]

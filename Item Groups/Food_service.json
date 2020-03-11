@@ -4,7 +4,14 @@
     "type": "item_group",
     "items":
     [
-      [ "bbq_sauce", 2 ]
+      { "group": "xenos_sauces", "prob": 30}
+    ]
+  },
+  {
+    "id": "groce_ingredient",
+    "type": "item_group",
+    "items": [
+      { "group": "ice_teas_powders", "prob": 30}
     ]
   },
   {
@@ -12,7 +19,8 @@
     "type": "item_group",
     "items":
     [
-      [ "bbq_sauce", 60 ]
+      { "group": "xenos_sauces", "prob": 60}
+      { "group": "ice_teas_powders", "prob": 30}
     ]
   },
   {

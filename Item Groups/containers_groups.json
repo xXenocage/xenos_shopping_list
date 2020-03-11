@@ -1,0 +1,13 @@
+[
+  {
+    "type": "item_group",
+    "id": "ice_tea_containers",
+    "items":
+    [
+      ["bottle_plastic", 25],
+      ["bottle_plastic_small", 15],
+      ["bottle_glass", 15],
+      ["can_drink", 10]
+    ]
+  }
+]

@@ -19,7 +19,7 @@
     "type": "item_group",
     "items":
     [
-      { "group": "xenos_sauces", "prob": 60}
+      { "group": "xenos_sauces", "prob": 60},
       { "group": "ice_teas_powders", "prob": 30}
     ]
   },

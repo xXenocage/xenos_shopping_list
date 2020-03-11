@@ -1,0 +1,24 @@
+[
+  {
+    "type": "recipe",
+    "result": "green_ice_tea",
+    "category": "CC_FOOD",
+    "subcategory": "CSC_FOOD_VEGGI",
+    "skill_used": "cooking",
+    "difficulty": 0,
+    "time": "1 m",
+    "charges": 1,
+    "autolearn": true,
+    "batch_time_factors": [ 50, 2 ],
+    "components":
+    [
+      [
+  	    [ "water", 1 ],
+        [ "water_clean", 1 ]
+      ],
+      [
+  	    [ "tea_powder_green", 1 ]
+      ]
+    ]
+  }
+]

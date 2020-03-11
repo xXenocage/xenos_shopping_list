@@ -1,0 +1,29 @@
+[
+  {
+    "id": "tea_powder_green",
+    "type": "COMESTIBLE",
+    "name": { "str": "green ice tea powder", "str_pl": "green ice tea powder" },
+    "weight": "1 g",
+    "color": "green",
+    "comestible_type": "FOOD",
+    "symbol": "=",
+    "calories": 2,
+    "quench": 0,
+    "healthy": 0,
+    "description": "These tiny sferes of compressed extracted tea flavoring, aroma and color pack an intense taste of green tea, you could put a bunch inside some water to create a tasty beverage that will be more enjoyable than normal water or put some in your mouth, not finlling at all and definitely not good for your teeth, but at least they leave a nice taste in your mouth....",
+    "price": 300,
+    "volume": "15 ml",
+    "fun": 2
+  },
+  {
+    "id": "green_ice_tea",
+    "type": "COMESTIBLE",
+    "copy-from": "water_clean",
+    "flags": [ "EATEN_COLD" ],
+    "name": { "str": "green ice tea", "str_pl": "green ice tea" },
+    "color": "green",
+    "calories": 2,
+    "description": "this refreshing drink used to be so popular during summer before the cataclysm to cool down, it's still as fresh as ever.",
+    "fun": 3
+  }
+]

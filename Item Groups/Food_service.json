@@ -14,5 +14,37 @@
     [
       [ "bbq_sauce", 60 ]
     ]
+  },
+  {
+    "type": "item_group",
+    "id": "fridgesnacks",
+    "items":
+    [
+      { "group": "ice_teas", "prob": 60}
+    ]
+  },
+  {
+    "id": "teashop_fridge",
+    "type": "item_group",
+    "items":
+    [
+      { "group": "ice_teas", "prob": 60}
+    ]
+  },
+  {
+    "id": "bar_fridge",
+    "type": "item_group",
+    "items":
+    [
+      { "group": "ice_teas", "prob": 60}
+    ]
+  },
+  {
+    "id": "coffee_counter",
+    "type": "item_group",
+    "items":
+    [
+      { "group": "ice_teas", "prob": 60}
+    ]
   }
 ]

@@ -14,7 +14,7 @@
     "type": "item_group",
     "items":
     [
-      [ "barbecue_sauce", 70 ]
+      [ "bbq_sauce", 70 ]
     ]
   },
   {
@@ -22,7 +22,7 @@
     "id": "fast_food",
     "items":
     [
-      [ "barbecue_sauce", 40 ]
+      [ "bbq_sauce", 40 ]
     ]
   }
 ]

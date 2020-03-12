@@ -11,7 +11,7 @@
     "id": "groce_ingredient",
     "type": "item_group",
     "items": [
-      { "group": "ice_teas_powders", "prob": 30}
+      { "group": "ice_tea_powders", "prob": 30}
     ]
   },
   {
@@ -20,7 +20,7 @@
     "items":
     [
       { "group": "xenos_sauces", "prob": 60},
-      { "group": "ice_teas_powders", "prob": 30}
+      { "group": "ice_tea_powders", "prob": 30}
     ]
   },
   {

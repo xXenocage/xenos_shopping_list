@@ -6,6 +6,7 @@
     "weight": "1 g",
     "color": "green",
     "comestible_type": "FOOD",
+    "vitamins": [[ "vitB", 2 ], [ "vitC", 4 ]],
     "symbol": "=",
     "calories": 2,
     "quench": 0,
@@ -25,25 +26,50 @@
     "description": "These tiny sferes of compressed extracted tea flavoring, aroma and color pack an intense taste of peach tea, you could put a bunch inside some water to create a tasty beverage that will be more enjoyable than normal water or put some in your mouth, not finlling at all and definitely not good for your teeth, but at least they leave a nice taste in your mouth...."
   },
   {
+    "id": "tropical_tea_powder",
+    "type": "COMESTIBLE",
+    "copy-from": "green_tea_powder",
+    "name": { "str": "tropical ice tea powder", "str_pl": "tropical ice tea powder" },
+    "color": "yellow",
+    "description": "These tiny sferes of compressed extracted tea flavoring, aroma and color pack an intense taste of tropical tea, you could put a bunch inside some water to create a tasty beverage that will be more enjoyable than normal water or put some in your mouth, not finlling at all and definitely not good for your teeth, but at least they leave a nice taste in your mouth...."
+  },
+  {
     "id": "green_ice_tea",
     "type": "COMESTIBLE",
     "copy-from": "water_clean",
+    "primary_material": "water",
     "flags": [ "EATEN_COLD" ],
     "name": { "str": "green ice tea", "str_pl": "green ice tea" },
+    "vitamins": [[ "vitB", 19 ], [ "vitC", 31 ]],
     "color": "green",
     "calories": 2,
-    "description": "this refreshing drink used to be so popular during summer before the cataclysm to cool down, it's still as fresh as ever.",
+    "description": "this refreshing drink used to be so popular during summer before the cataclysm to cool down, as well as a slight vitamin boost, it's still as fresh as ever.",
     "fun": 3
   },
   {
     "id": "peach_ice_tea",
     "type": "COMESTIBLE",
     "copy-from": "water_clean",
+    "primary_material": "water",
     "flags": [ "EATEN_COLD" ],
     "name": { "str": "peach ice tea", "str_pl": "peach ice tea" },
+    "vitamins": [[ "vitB", 18 ], [ "vitC", 27 ]],
     "color": "light_red",
     "calories": 2,
-    "description": "this refreshing drink used to be so popular during summer before the cataclysm to cool down, it's still as fresh as ever.",
+    "description": "this refreshing drink used to be so popular during summer before the cataclysm to cool down, as well as a slight vitamin boost, it's still as fresh as ever.",
+    "fun": 3
+  },
+  {
+    "id": "tropical_ice_tea",
+    "type": "COMESTIBLE",
+    "copy-from": "water_clean",
+    "primary_material": "water",
+    "flags": [ "EATEN_COLD" ],
+    "name": { "str": "tropical ice tea", "str_pl": "tropical ice tea" },
+    "vitamins": [[ "vitB", 21 ], [ "vitC", 27 ], [ "vitA", 19 ]],
+    "color": "yellow",
+    "calories": 2,
+    "description": "this refreshing drink used to be so popular during summer before the cataclysm to cool down, as well as a slight vitamin boost, it's still as fresh as ever.",
     "fun": 3
   }
 ]

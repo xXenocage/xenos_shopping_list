@@ -43,7 +43,8 @@
         [ "seasoning_salt", 1 ],
         [ "soysauce", 1 ],
         [ "sauerkraut", 1 ],
-        [ "bbq_sauce", 1 ]
+        [ "bbq_sauce", 1 ],
+        [ "mayochup", 1 ]
       ]
     ]
   },
@@ -85,7 +86,8 @@
         [ "bacon", 1 ],
         [ "seasoning_salt", 1 ],
         [ "soysauce", 1 ],
-        [ "bbq_sauce", 1 ]
+        [ "bbq_sauce", 1 ],
+        [ "mayochup", 1 ]
       ]
     ]
   },
@@ -164,7 +166,8 @@
         [ "mayonnaise", 1 ],
         [ "seasoning_salt", 5 ],
         [ "soysauce", 1 ],
-        [ "bbq_sauce", 1]
+        [ "bbq_sauce", 1],
+        [ "mayochup", 1 ]
       ]
     ]
   },
@@ -206,7 +209,8 @@
         [ "seasoning_salt", 1 ],
         [ "soysauce", 1 ],
         [ "sauerkraut", 1 ],
-        [ "bbq_sauce", 1 ]
+        [ "bbq_sauce", 1 ],
+        [ "mayochup", 1 ]
       ]
     ]
   },
@@ -235,7 +239,8 @@
     		[ "mustard", 1 ],
     		[ "horseradish", 1 ],
     		[ "sauerkraut", 1 ] ,
-    		[ "bbq_sauce", 1 ]
+    		[ "bbq_sauce", 1 ],
+        [ "mayochup", 1 ]
   	  ],
   	  [
   	    [ "water", 1 ],
@@ -264,7 +269,8 @@
       	[ "sauce_pesto", 1 ],
       	[ "sauce_red", 1 ],
       	[ "mustard", 1 ] ,
-        [ "bbq_sauce", 1 ]
+        [ "bbq_sauce", 1 ],
+        [ "mayochup", 1 ]
       ]
     ]
   }

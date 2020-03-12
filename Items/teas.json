@@ -40,8 +40,9 @@
     "primary_material": "water",
     "flags": [ "EATEN_COLD" ],
     "name": { "str": "green ice tea", "str_pl": "green ice tea" },
-    "vitamins": [[ "vitB", 19 ], [ "vitC", 31 ]],
+    "vitamins": [[ "vitB", 19 ], [ "vitC", 31 ], [ "calcium", 12 ], [ "iron", 2 ]],
     "color": "green",
+    "quench": 57,
     "calories": 2,
     "description": "this refreshing drink used to be so popular during summer before the cataclysm to cool down, as well as a slight vitamin boost, it's still as fresh as ever.",
     "fun": 3
@@ -53,9 +54,10 @@
     "primary_material": "water",
     "flags": [ "EATEN_COLD" ],
     "name": { "str": "peach ice tea", "str_pl": "peach ice tea" },
-    "vitamins": [[ "vitB", 18 ], [ "vitC", 27 ]],
+    "vitamins": [[ "vitB", 18 ], [ "vitC", 27 ], [ "calcium", 10 ], [ "iron", 3 ]],
     "color": "light_red",
-    "calories": 2,
+    "quench": 55,
+    "calories": 3,
     "description": "this refreshing drink used to be so popular during summer before the cataclysm to cool down, as well as a slight vitamin boost, it's still as fresh as ever.",
     "fun": 3
   },
@@ -66,9 +68,10 @@
     "primary_material": "water",
     "flags": [ "EATEN_COLD" ],
     "name": { "str": "tropical ice tea", "str_pl": "tropical ice tea" },
-    "vitamins": [[ "vitB", 21 ], [ "vitC", 27 ], [ "vitA", 19 ]],
+    "vitamins": [[ "vitB", 21 ], [ "vitC", 27 ], [ "vitA", 19 ], [ "calcium", 12 ], [ "iron", 5 ]],
     "color": "yellow",
-    "calories": 2,
+    "quench": 60,
+    "calories": 3,
     "description": "this refreshing drink used to be so popular during summer before the cataclysm to cool down, as well as a slight vitamin boost, it's still as fresh as ever.",
     "fun": 3
   }

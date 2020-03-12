@@ -17,6 +17,14 @@
     "fun": 2
   },
   {
+    "id": "tea_powder_peach",
+    "type": "COMESTIBLE",
+    "copy-from": "tea_powder_green",
+    "name": { "str": "peach ice tea powder", "str_pl": "peach ice tea powder" },
+    "color": "light_red",
+    "description": "These tiny sferes of compressed extracted tea flavoring, aroma and color pack an intense taste of peach tea, you could put a bunch inside some water to create a tasty beverage that will be more enjoyable than normal water or put some in your mouth, not finlling at all and definitely not good for your teeth, but at least they leave a nice taste in your mouth....",
+  },
+  {
     "id": "green_ice_tea",
     "type": "COMESTIBLE",
     "copy-from": "water_clean",

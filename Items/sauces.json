@@ -15,7 +15,7 @@
     "type": "COMESTIBLE",
     "copy-from": "ketchup",
     "cooks_like": "ketchup",
-    "color": "pink",
+    "color": "light_red",
     "name": "mayochup",
     "description": "A viscous paste, it consists of a mixture of one part ketchup and two of mayonnaise. \nalso known as ''pink sauce'' or simply ketchup-mayo mix or fry sauce.",
     "calories": 37,

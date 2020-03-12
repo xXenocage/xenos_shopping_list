@@ -15,7 +15,8 @@
     [
       {"item": "green_ice_tea", "prob": 20, "container-item": "can_drink"},
       {"item": "peach_ice_tea", "prob": 20, "container-item": "can_drink"},
-      {"item": "tropical_ice_tea", "prob": 20, "container-item": "can_drink"}
+      {"item": "tropical_ice_tea", "prob": 20, "container-item": "can_drink"},
+      {"item": "lemon_ice_tea", "prob": 20, "container-item": "can_drink"}
     ]
   },
   {
@@ -25,7 +26,8 @@
     [
       {"item": "green_ice_tea", "prob": 20, "container-group": "ice_tea_containers"},
       {"item": "peach_ice_tea", "prob": 20, "container-group": "ice_tea_containers"},
-      {"item": "tropical_ice_tea", "prob": 20, "container-group": "ice_tea_containers"}
+      {"item": "tropical_ice_tea", "prob": 20, "container-group": "ice_tea_containers"},
+      {"item": "lemon_ice_tea", "prob": 20, "container-group": "ice_tea_containers"}
     ]
   },
   {
@@ -35,7 +37,8 @@
     [
       { "item": "green_tea_powder", "prob": 20, "charges": 5, "container-item": "bag_plastic" },
       { "item": "peach_tea_powder", "prob": 20, "charges": 5, "container-item": "bag_plastic" },
-      { "item": "tropical_tea_powder", "prob": 20, "charges": 5, "container-item": "bag_plastic" }
+      { "item": "tropical_tea_powder", "prob": 20, "charges": 5, "container-item": "bag_plastic" },
+      { "item": "lemon_tea_powder", "prob": 20, "charges": 5, "container-item": "bag_plastic" }
     ]
   }
 ]

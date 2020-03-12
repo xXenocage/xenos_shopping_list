@@ -1,6 +1,6 @@
 [
   {
-    "id": "tea_powder_green",
+    "id": "green_tea_powder",
     "type": "COMESTIBLE",
     "name": { "str": "green ice tea powder", "str_pl": "green ice tea powder" },
     "weight": "1 g",
@@ -17,12 +17,12 @@
     "fun": 2
   },
   {
-    "id": "tea_powder_peach",
+    "id": "peach_tea_powder",
     "type": "COMESTIBLE",
-    "copy-from": "tea_powder_green",
+    "copy-from": "green_tea_powder",
     "name": { "str": "peach ice tea powder", "str_pl": "peach ice tea powder" },
     "color": "light_red",
-    "description": "These tiny sferes of compressed extracted tea flavoring, aroma and color pack an intense taste of peach tea, you could put a bunch inside some water to create a tasty beverage that will be more enjoyable than normal water or put some in your mouth, not finlling at all and definitely not good for your teeth, but at least they leave a nice taste in your mouth....",
+    "description": "These tiny sferes of compressed extracted tea flavoring, aroma and color pack an intense taste of peach tea, you could put a bunch inside some water to create a tasty beverage that will be more enjoyable than normal water or put some in your mouth, not finlling at all and definitely not good for your teeth, but at least they leave a nice taste in your mouth...."
   },
   {
     "id": "green_ice_tea",
@@ -31,6 +31,17 @@
     "flags": [ "EATEN_COLD" ],
     "name": { "str": "green ice tea", "str_pl": "green ice tea" },
     "color": "green",
+    "calories": 2,
+    "description": "this refreshing drink used to be so popular during summer before the cataclysm to cool down, it's still as fresh as ever.",
+    "fun": 3
+  },
+  {
+    "id": "peach_ice_tea",
+    "type": "COMESTIBLE",
+    "copy-from": "water_clean",
+    "flags": [ "EATEN_COLD" ],
+    "name": { "str": "peach ice tea", "str_pl": "peach ice tea" },
+    "color": "light_red",
     "calories": 2,
     "description": "this refreshing drink used to be so popular during summer before the cataclysm to cool down, it's still as fresh as ever.",
     "fun": 3

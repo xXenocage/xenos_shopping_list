@@ -36,7 +36,7 @@
     "type": "item_group",
     "items":
     [
-      { "group": "ice_teas", "prob": 60}
+      { "group": "ice_teas", "prob": 40}
     ]
   },
   {
@@ -44,7 +44,7 @@
     "type": "item_group",
     "items":
     [
-      { "group": "ice_teas", "prob": 60}
+      { "group": "ice_teas", "prob": 40}
     ]
   },
   {
@@ -52,7 +52,7 @@
     "type": "item_group",
     "items":
     [
-      { "group": "ice_teas", "prob": 60}
+      { "group": "ice_teas", "prob": 40}
     ]
   }
 ]

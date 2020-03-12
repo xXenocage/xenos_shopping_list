@@ -13,7 +13,8 @@
     "id": "softdrinks_canned",
     "items":
     [
-      {"item": "green_ice_tea", "prob": 20, "container-item": "can_drink"}
+      {"item": "green_ice_tea", "prob": 20, "container-item": "can_drink"},
+      {"item": "peach_ice_tea", "prob": 20, "container-item": "can_drink"}
     ]
   },
   {
@@ -21,7 +22,8 @@
     "id": "ice_teas",
     "items":
     [
-      {"item": "green_ice_tea", "prob": 20, "container-group": "ice_tea_containers"}
+      {"item": "green_ice_tea", "prob": 20, "container-group": "ice_tea_containers"},
+      {"item": "peach_ice_tea", "prob": 20, "container-group": "ice_tea_containers"}
     ]
   },
   {
@@ -29,7 +31,8 @@
     "id": "ice_teas_powders",
     "items":
     [
-      { "item": "tea_powder_green", "prob": 20, "charges": 10, "container-item": "bag_plastic" }
+      { "item": "green_tea_powder", "prob": 20, "charges": 5, "container-item": "bag_plastic" },
+      { "item": "peach_tea_powder", "prob": 20, "charges": 5, "container-item": "bag_plastic" }
     ]
   }
 ]

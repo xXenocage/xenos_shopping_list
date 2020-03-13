@@ -64,5 +64,53 @@
   	    [ "tropical_tea_powder", 1 ]
       ]
     ]
+  },
+  {
+    "type": "recipe",
+    "result": "lemon_ice_tea",
+    "category": "CC_FOOD",
+    "subcategory": "CSC_FOOD_VEGGI",
+    "skill_used": "cooking",
+    "difficulty": 0,
+    "time": "1 m",
+    "charges": 1,
+    "autolearn": true,
+    "batch_time_factors": [ 50, 2 ],
+    "components":
+    [
+      [
+  	    [ "water", 1 ],
+        [ "water_clean", 1 ]
+      ],
+      [
+  	    [ "lemon_tea_powder", 1 ]
+      ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "ice_tea_with_lemon",
+    "category": "CC_FOOD",
+    "subcategory": "CSC_FOOD_VEGGI",
+    "skill_used": "cooking",
+    "difficulty": 0,
+    "time": "3 m",
+    "charges": 1,
+    "autolearn": true,
+    "batch_time_factors": [ 50, 2 ],
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components":
+    [
+      [
+  	    [ "lemon_ice_tea", 1 ],
+  	    [ "green_ice_tea", 1 ],
+  	    [ "peach_ice_tea", 1 ],
+  	    [ "tropical_ice_tea", 1 ]
+      ],
+      [
+  	    [ "lemon", 1 ],
+  	    [ "irradiated_lemon", 1 ]
+      ]
+    ]
   }
 ]

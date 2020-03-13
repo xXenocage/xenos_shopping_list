@@ -54,5 +54,18 @@
     "calories": 3,
     "description": "this refreshing drink used to be so popular during summer before the cataclysm to cool down, as well as being a slight vitamin boost, it's still as fresh as ever.",
     "fun": 3
+  },
+  {
+    "id": "ice_tea_with_lemon",
+    "type": "COMESTIBLE",
+    "copy-from": "water_clean",
+    "primary_material": "water",
+    "flags": [ "EATEN_COLD" ],
+    "name": { "str": "ice tea with lemon", "str_pl": "ice tea with lemon" },
+    "vitamins": [[ "vitB", 15 ], [ "vitC", 28 ], [ "calcium", 16 ], [ "iron", 1 ]],
+    "color": "yellow",
+    "quench": 75,
+    "description": "this refreshing drink used to be so popular during summer before the cataclysm to cool down, as well as being a slight vitamin boost, it's still as fresh as ever.\nyou're not sure what taste this is, but there's a quite good lemon aftertaste to it.",
+    "fun": 5
   }
 ]

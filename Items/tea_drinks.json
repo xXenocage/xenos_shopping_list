@@ -56,6 +56,20 @@
     "fun": 3
   },
   {
+    "id": "cherry_ice_tea",
+    "type": "COMESTIBLE",
+    "copy-from": "water_clean",
+    "primary_material": "water",
+    "flags": [ "EATEN_COLD" ],
+    "name": { "str": "cherry ice tea", "str_pl": "cherry ice tea" },
+    "vitamins": [[ "vitB", 18 ], [ "vitC", 25 ], [ "calcium", 15 ], [ "iron", 1 ]],
+    "color": "red",
+    "quench": 61,
+    "calories": 3,
+    "description": "this refreshing drink used to be so popular during summer before the cataclysm to cool down, as well as being a slight vitamin boost, it's still as fresh as ever.",
+    "fun": 3
+  },
+  {
     "id": "ice_tea_with_lemon",
     "type": "COMESTIBLE",
     "copy-from": "water_clean",

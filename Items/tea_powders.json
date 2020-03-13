@@ -40,5 +40,13 @@
     "name": { "str": "lemon ice tea powder", "str_pl": "lemon ice tea powder" },
     "color": "yellow",
     "description": "These tiny sferes of compressed extracted tea flavoring, aroma and color pack an intense taste of lemon tea, you could put a bunch inside some water to create a tasty beverage that will be more enjoyable than normal water or put some in your mouth, not finlling at all and definitely not good for your teeth, but at least they leave a nice taste in your mouth...."
+  },
+  {
+    "id": "cherry_tea_powder",
+    "type": "COMESTIBLE",
+    "copy-from": "green_tea_powder",
+    "name": { "str": "cherry ice tea powder", "str_pl": "cherry ice tea powder" },
+    "color": "red",
+    "description": "These tiny sferes of compressed extracted tea flavoring, aroma and color pack an intense taste of cherry tea, you could put a bunch inside some water to create a tasty beverage that will be more enjoyable than normal water or put some in your mouth, not finlling at all and definitely not good for your teeth, but at least they leave a nice taste in your mouth...."
   }
 ]

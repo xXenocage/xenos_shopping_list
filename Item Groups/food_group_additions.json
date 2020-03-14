@@ -6,6 +6,7 @@
     "magazine": 100,
     "items":
     [
+      { "group": "xenos_seasonings", "prob": 30},
       { "group": "xenos_sauces", "prob": 30}
     ]
   },

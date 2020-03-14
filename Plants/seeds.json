@@ -1,0 +1,14 @@
+[
+  {
+    "id": "seed_dill",
+    "copy-from": "seed",
+    "type": "COMESTIBLE",
+    "name": { "str": "dill seed", "str_pl": "dill seeds" },
+    "description": "Some dill seeds.",
+    "weight": "2 g",
+    "price": 100,
+    "stack_size": 40,
+    "primary_material": "dried_vegetable",
+    "seed_data": { "plant_name": "dill", "fruit": "dill", "byproducts": [ "withered" ], "grow": "14 days" }
+  }
+]

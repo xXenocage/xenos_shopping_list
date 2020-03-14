@@ -1,0 +1,41 @@
+[
+  {
+    "type": "COMESTIBLE",
+    "id": "dill",
+    "category": "other",
+    "container": "bag_plastic",
+    "price": 50,
+    "material": "veggy",
+    "primary_material": "veggy",
+    "name": { "str": "dill", "str_pl": "dill" },
+    "symbol": "=",
+    "color": "light_green",
+    "description": "some dill leaves, used as condiment for meals.",
+    "comestible_type": "FOOD",
+    "calories": 5,
+    "volume": "10 ml",
+    "vitamins": [ [ "calcium", 3 ], [ "iron", 2 ] ],
+    "flags": [ "EDIBLE_FROZEN", "RAW" ],
+    "stack_size": 40,
+    "weight": "4 g"
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "dry_dill",
+    "category": "other",
+    "container": "bag_plastic",
+    "price": 50,
+    "material": "veggy",
+    "primary_material": "dried_vegetable",
+    "name": { "str": "dried dill", "str_pl": "dried dill" },
+    "symbol": "-",
+    "color": "green",
+    "description": "some dill leaves, dried up for preservation, used as condiment for meals.",
+    "comestible_type": "FOOD",
+    "volume": "5 ml",
+    "vitamins": [ [ "calcium", 2 ], [ "iron", 3 ] ],
+    "flags": [ "EDIBLE_FROZEN" ],
+    "stack_size": 40,
+    "weight": "1 g"
+  }
+]

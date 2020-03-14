@@ -4,8 +4,17 @@
     "result": "cheeseburger",
   	"copy-from": "cheeseburger",
   	"id_suffix": "xenos_cheeseburger",
-    "qualities": [ { "id": "CUT", "level": 1 }, { "id": "COOK", "level": 2 } ],
-    "tools": [ [ [ "surface_heat", 10, "LIST" ] ] ],
+    "qualities":
+    [
+      { "id": "CUT", "level": 1 },
+      { "id": "COOK", "level": 2 }
+    ],
+    "tools":
+    [
+      [
+        [ "surface_heat", 10, "LIST" ]
+      ]
+    ],
     "components":
     [
       [
@@ -53,7 +62,10 @@
     "result": "fish_sandwich",
   	"copy-from": "fish_sandwich",
   	"id_suffix": "xenos_fish_sandwich",
-    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "qualities":
+    [
+      { "id": "CUT", "level": 1 }
+    ],
     "components":
     [
       [
@@ -96,7 +108,10 @@
     "result": "sandwich_deluxe",
   	"copy-from": "sandwich_deluxe",
   	"id_suffix": "xenos_sandwich_deluxe",
-    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "qualities":
+    [
+      { "id": "CUT", "level": 1 }
+    ],
     "components":
     [
       [
@@ -176,8 +191,17 @@
     "result": "hamburger",
   	"copy-from": "hamburger",
   	"id_suffix": "xenos_hamburger",
-    "qualities": [ { "id": "CUT", "level": 1 }, { "id": "COOK", "level": 2 } ],
-    "tools": [ [ [ "surface_heat", 10, "LIST" ] ] ],
+    "qualities":
+    [
+      { "id": "CUT", "level": 1 },
+      { "id": "COOK", "level": 2 }
+    ],
+    "tools":
+    [
+      [
+        [ "surface_heat", 10, "LIST" ]
+      ]
+    ],
     "components":
     [
       [
@@ -219,8 +243,17 @@
     "result": "hotdogs_cooked",
   	"copy-from": "hotdogs_cooked",
   	"id_suffix": "xenos_hotdogs_cooked",
-    "qualities": [ { "id": "CUT", "level": 1 }, { "id": "COOK", "level": 2 } ],
-    "tools": [ [ [ "surface_heat", 10, "LIST" ] ] ],
+    "qualities":
+    [
+      { "id": "CUT", "level": 1 },
+      { "id": "COOK", "level": 2 }
+    ],
+    "tools":
+    [
+      [
+        [ "surface_heat", 10, "LIST" ]
+      ]
+    ],
     "components":
     [
       [

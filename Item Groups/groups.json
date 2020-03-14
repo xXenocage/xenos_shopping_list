@@ -43,5 +43,14 @@
       { "item": "lemon_tea_powder", "prob": 20, "charges": 5, "container-item": "bag_plastic" },
       { "item": "cherry_tea_powder", "prob": 20, "charges": 5, "container-item": "bag_plastic" }
     ]
+  },
+  {
+    "type": "item_group",
+    "id": "xenos_seasonings",
+    "items":
+    [
+      { "item": "dill", "prob": 20, "charges": 10, "container-item": "bag_plastic" },
+      { "item": "dry_dill", "prob": 20, "charges": 5, "container-item": "bag_plastic" }
+    ]
   }
 ]

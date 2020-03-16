@@ -3,7 +3,7 @@
     "type": "recipe",
     "result": "bbq_sauce",
     "category": "CC_FOOD",
-    "subcategory": "CSC_FOOD_VEGGI",
+    "subcategory": "CSC_FOOD_OTHER",
     "skill_used": "cooking",
     "difficulty": 4,
     "time": "21 m",
@@ -53,25 +53,25 @@
       ]
     ]
   },
-    {
-      "type": "recipe",
-      "result": "mayochup",
-      "category": "CC_FOOD",
-      "subcategory": "CSC_FOOD_VEGGI",
-      "skill_used": "cooking",
-      "difficulty": 0,
-      "time": "2 m",
-      "charges": 3,
-      "autolearn": true,
-      "batch_time_factors": [ 50, 2 ],
-      "components":
+  {
+    "type": "recipe",
+    "result": "mayochup",
+    "category": "CC_FOOD",
+    "subcategory": "CSC_FOOD_OTHER",
+    "skill_used": "cooking",
+    "difficulty": 0,
+    "time": "2 m",
+    "charges": 3,
+    "autolearn": true,
+    "batch_time_factors": [ 50, 2 ],
+    "components":
+    [
       [
-        [
-    	    [ "mayonnaise", 2 ]
-        ],
-        [
-    	    [ "ketchup", 1 ]
-        ]
+  	    [ "mayonnaise", 2 ]
+      ],
+      [
+  	    [ "ketchup", 1 ]
       ]
-    }
+    ]
+  }
 ]

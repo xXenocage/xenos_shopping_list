@@ -1,0 +1,22 @@
+[
+  {
+    "type": "COMESTIBLE",
+    "id": "quick_dip_powder_onion",
+    "name": "quick onion and chives dip powder",
+    "weight": "15 g",
+    "color": "green",
+    "container": "box_small",
+    "comestible_type": "FOOD",
+    "symbol": "=",
+    "quench": -5,
+    "healthy": 0,
+    "calories": 40,
+    "description": "easy to use powder to create a tasty cream that becomes heaven with a pack of chips. a favored snack by people before the cataclysm, this one tastes like chives and leaves that 'ting of onion.\nbad to eat on it's own but if added to sour cream it gives a great taste.",
+    "price": 300,
+    "volume": "10 ml",
+    "flags": [ "EDIBLE_FROZEN" ],
+    "charges": 1,
+    "vitamins": [ [ "vitC", 3 ], [ "calcium", 1 ], [ "iron", 4 ] ],
+    "fun": -2
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "type": "recipe",
+    "result": "dip_sauce",
+    "category": "CC_FOOD",
+    "subcategory": "CSC_FOOD_OTHER",
+    "skill_used": "cooking",
+    "difficulty": 0,
+    "time": "2 m",
+    "charges": 1,
+    "autolearn": true,
+    "batch_time_factors": [ 67, 5 ],
+    "components":
+    [
+      [
+  	    [ "sour_cream", 1 ]
+      ],
+      [
+  	    [ "quick_dip_powder_onion", 1 ]
+      ]
+    ]
+  }
+]

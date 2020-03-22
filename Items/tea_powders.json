@@ -48,5 +48,21 @@
     "name": { "str": "cherry ice tea powder", "str_pl": "cherry ice tea powder" },
     "color": "red",
     "description": "These tiny sferes of compressed extracted tea flavoring, aroma and color pack an intense taste of cherry tea, you could put a bunch inside some water to create a tasty beverage that will be more enjoyable than normal water or put some in your mouth, not filling at all and definitely not good for your teeth, but at least they leave a nice taste in your mouth...."
+  },
+  {
+    "id": "berry_tea_powder",
+    "type": "COMESTIBLE",
+    "copy-from": "green_tea_powder",
+    "name": { "str": "forest berries ice tea powder", "str_pl": "forest berries ice tea powder" },
+    "color": "red",
+    "description": "These tiny sferes of compressed extracted tea flavoring, aroma and color pack an intense taste of forest berry tea, you could put a bunch inside some water to create a tasty beverage that will be more enjoyable than normal water or put some in your mouth, not filling at all and definitely not good for your teeth, but at least they leave a nice taste in your mouth...."
+  },
+  {
+    "id": "strawberry_tea_powder",
+    "type": "COMESTIBLE",
+    "copy-from": "strawberry_tea_powder",
+    "name": { "str": "strawberry ice tea powder", "str_pl": "strawberry ice tea powder" },
+    "color": "red",
+    "description": "These tiny sferes of compressed extracted tea flavoring, aroma and color pack an intense taste of strawberry tea, you could put a bunch inside some water to create a tasty beverage that will be more enjoyable than normal water or put some in your mouth, not filling at all and definitely not good for your teeth, but at least they leave a nice taste in your mouth...."
   }
 ]

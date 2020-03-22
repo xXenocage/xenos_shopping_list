@@ -91,7 +91,7 @@
     "flags": [ "EATEN_COLD" ],
     "name": { "str": "forest berries ice tea", "str_pl": "forest berries ice tea" },
     "vitamins": [[ "vitB", 18 ], [ "vitC", 25 ], [ "calcium", 15 ], [ "iron", 1 ]],
-    "color": "purple",
+    "color": "magenta",
     "quench": 57,
     "calories": 3,
     "description": "this refreshing drink used to be so popular during summer before the cataclysm to cool down, as well as being a slight vitamin boost, it's still as fresh as ever.",

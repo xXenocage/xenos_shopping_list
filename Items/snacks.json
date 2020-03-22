@@ -1,0 +1,15 @@
+[
+  {
+    "type": "COMESTIBLE",
+    "id": "chips_and_dip",
+    "name": "chips and dip",
+    "weight": "245 g",
+    "color": "yellow",
+    "comestible_type": "FOOD",
+    "symbol": "%",
+    "description": "easy to use powder to create a tasty cream that becomes heaven with a pack of chips. a favored snack by people before the cataclysm, this one tastes like chives and leaves that 'ting of onion.\nbad to eat on it's own but if added to sour cream it gives a great taste.",
+    "price": 300,
+    "volume": "250 ml",
+    "flags": [ "FREEZERBURN" ]
+  }
+]

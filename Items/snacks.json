@@ -7,7 +7,7 @@
     "color": "yellow",
     "comestible_type": "FOOD",
     "symbol": "%",
-    "description": "easy to use powder to create a tasty cream that becomes heaven with a pack of chips. a favored snack by people before the cataclysm, this one tastes like chives and leaves that 'ting of onion.\nbad to eat on it's own but if added to sour cream it gives a great taste.",
+    "description": "this common snack mix requires you to dip the chips in the dip cream before eating the chips.\nwhile sometimes messy and enjoyable slowly, the fresh feeling of cream on the dry surface of the chip remind you of better, simpler times.",
     "price": 300,
     "volume": "250 ml",
     "flags": [ "FREEZERBURN" ]
